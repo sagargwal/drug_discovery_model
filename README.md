@@ -8,7 +8,7 @@ this a guided project by dataprofessor  , In this project I got an exposure to b
 
 # Model Building  
 
-1.Data retrieval from Chembl marked the initial step, followed by meticulous preprocessing. This involved the calculation of IC50, with a randomly set threshold establishing the activation criteria.
-2.Exploratory data analysis and statistical tests supported the threshold selection, utilizing Lapinski descriptors. These tests were designed to verify the distinction between active and inactive molecules.
-3.Each molecule received a unique fingerprint through Padel descriptors, generating over 300 distinct fingerprints for analysis.
-4.The final model, trained using coronavirus data, accepts canonical smiles and Chembl IDs as input, producing pIC50 values as output.
+1. Data retrieval from Chembl marked the initial step, followed by meticulous preprocessing. This involved the calculation of IC50, with a randomly set threshold establishing the activation criteria.
+2. Exploratory data analysis and statistical tests supported the threshold selection, utilizing Lapinski descriptors. These tests were designed to verify the distinction between active and inactive molecules.
+3. Each molecule received a unique fingerprint through Padel descriptors, generating over 300 distinct fingerprints for analysis.
+4. The final model, trained using coronavirus data, accepts canonical smiles and Chembl IDs as input, producing pIC50 values as output.
